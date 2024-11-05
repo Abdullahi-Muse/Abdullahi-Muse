@@ -1,8 +1,32 @@
-## Hey 👋, This is Abdullahi Muse
-[![Gmail Badge](https://img.shields.io/badge/-abdullahiomar952@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:abdullahiomar952@gmail.com)](mailto:abdullahiomar952@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-Abdullahi Muse-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Abdullahi Muse/)](https://www.linkedin.com/in/Abdullahi Muse/) [![Github Badge](https://img.shields.io/badge/-AbdullahiMuse-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AbdullahiMuse/)](https://www.github.com/AbdullahiMuse/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=github.com/Abdullahi-Muse/)](github.com/Abdullahi-Muse/) <p align='left'>I'm a dedicated Business Intelligence Analyst working on 5+ technical projects transforming data into actionable insights. My roles at Boston Scientific, Amazon, and Allied Universal honed my ability to solve complex problems, adapt to changing priorities, and collaborate effectively with diverse teams.
+Hi 👋 My name is Abdullahi Muse
+===============================
 
-I've further sharpened my skills through the TripleTen program, mastering tools like Spreadsheets, SQL, Tableau, Python, and Power BI.
+I'm a dedicated Business Intelligence Analyst with 5+ projects under my belt, transforming data into actionable insights. Originally from Seattle, I currently reside in Minnesota. My roles at Boston Scientific, Amazon, and Allied Universal honed my ability to solve complex problems, adapt to changing priorities, and collaborate effectively with diverse teams. I've further sharpened my technical skills through the TripleTen program, mastering tools like Spreadsheets, SQL, Tableau, Python, and Power BI. Beyond the technical aspects, I'm a passionate sports enthusiast who enjoys cheering on my favorite soccer, football, and basketball teams. I'm currently training for the upcoming winter soccer tournament. My goal for 2024 is to secure a challenging and rewarding role in the data field.
 
-Beyond the technical aspects, I'm a passionate sports enthusiast who enjoys cheering on my favorite soccer, football, and basketball teams. I'm currently training for the upcoming winter soccer tournament. My goal for 2024 is to secure a challenging and rewarding role in the data field.</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/17rnbZ0fqZiWQgYa0OLNSF0ZX7lkFLjuOID-xNjvdd78/edit?tab=t.0#heading=h.5x0d5h95i329 ' target=_blank><u>here</u>.</a></p>
-
+*   ✉️  You can contact me at [abdullahiomar952@gmail.com](mailto:abdullahiomar952@gmail.com)
+*   🤝  I'm open to collaborating on Analysis of any kind
+                  ### Socials
+                  
+                  
+                <p align="left">
+                      <a href="https://discord.com/users/ajmuse" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.github.com/Abdullahi-Muse" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.linkedin.com/in/abdullahi-muse-" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+                    </picture>
+                    </a></p>
